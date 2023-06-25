@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #dfb7b7;
+  }
+  
+  input[type='text'] {
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 5px;
+  }
+  
+  #user-details {
+    margin-top: 20px;
+  }
+  
